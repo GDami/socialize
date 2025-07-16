@@ -1,4 +1,9 @@
-# React + Vite
+# Socialize
+
+This app is a social media dashboard aiming to provide you with a centralized place where you can visualize all your relevant data from your social network accounts. Currently planning to support Instagram, Twitter, Youtube and Facebook, but feel free to reach out if you'd like to see support for your favorite platform !
+
+
+## React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
